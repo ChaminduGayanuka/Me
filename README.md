@@ -2,22 +2,16 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kahaputha&label=Profile%20views&color=0e75b6&style=flat" alt="KahaPutha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChaminduGayanuka&label=Profile%20views&color=0e75b6&style=flat" alt="KahaPutha" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Android, Microsoft Computer**
 
-- 📫 How to reach me **slkahaputha100@gmail.com**
+- 📫 How to reach me **chamindugayanuka@gmail.com**
 
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KahaPutha&theme=highcontrast)](https://github.com/KahaPutha/github-readme-streak-stats)
 </div>
-
-<p align="center">
-  <a href="https://github.com/KahaPutha">
-    <img src="https://activity-graph.herokuapp.com/graph?username=KahaPutha&theme=react-dark" />
-  </a>
-</p>
 
